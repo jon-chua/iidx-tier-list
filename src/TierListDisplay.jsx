@@ -57,11 +57,7 @@ const TierListDisplay = (props) => {
         })}
       </Grid>
 
-      <Box sx={{ m: 8 }} />
-      {/*<Typography>Original tier list from&nbsp;*/}
-      {/*  <Link*/}
-      {/*    href="https://note.com/rice_place/n/n336a8c17b43d">https://note.com/rice_place/n/n336a8c17b43d</Link>*/}
-      {/*</Typography>*/}
+      <Box sx={{ m: 4 }} />
     </div>
   );
 }
